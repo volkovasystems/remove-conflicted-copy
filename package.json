@@ -1,0 +1,9 @@
+{
+	"name": "remove-conflicted-copy",
+	"description": "Removes conflicted copy files created by Dropbox.",
+	"version": "0.1.0",
+	"author": "Richeve S. Bebedor",
+	"bin": {
+		"removeconflictedcopy": "./remove-conflicted-copy.js"
+	}
+}
